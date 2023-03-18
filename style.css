@@ -1,0 +1,18 @@
+.nawigacja {
+    display: flex;
+    gap: 20px;
+    background-color: #C20114;
+}
+body {
+    background-color:#FABC2A;
+    color: #06D6A0;
+}
+p {
+    color: #6D7275;
+}
+a {
+    color: #090C02;
+}
+img {
+    height: 500px;
+}
